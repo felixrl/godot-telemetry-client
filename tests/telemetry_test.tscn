@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://ey2ulyujjif7"]
+
+[ext_resource type="Script" uid="uid://cs5dg287m3ejr" path="res://tests/telemetry_test.gd" id="1_6x8k1"]
+
+[node name="TelemetryTest" type="Node2D" unique_id=1021808334]
+script = ExtResource("1_6x8k1")
